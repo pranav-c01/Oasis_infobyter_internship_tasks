@@ -1,0 +1,10 @@
+numpy
+pandas
+scikit-learn
+seaborn
+matplotlib
+
+# Jupyter Notebook and extensions
+jupyter
+ipywidgets
+#nbformat>=5.3.0  # Notebook format handling
